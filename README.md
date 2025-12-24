@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">Hi there, I'm Sumana👋</h1>
+<h3 align="left">Blockchain Developer & Tech Content Creator 👩‍💻✍️</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana10&label=Profile%20views&color=0e75b6&style=flat" alt="sumana10l" /> </p>
 
-<!--
-**sumana10l/sumana10l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+ 🔭 I’m currently building **blockchain-based tools and dApps**
 
-Here are some ideas to get you started:
+ 🌱 I’m exploring **low-level blockchain mechanics and protocol development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 I love talking about **React, Solidity, Smart Contracts, and Blockchain Protocols**
+
+ 📫 How to reach me **sumana.developer@gmail.com**
+
+ ⚡ Fun fact **I am a big fan of Cute Doodling🎨🐣**
+  
+</div>
+
+### Connect with me:
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/sumana10l)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana-linkdIn)
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/sumana)
+
+## Languages and Tools:
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,rust,solidity&theme=dark)](https://skillicons.dev)
+### Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,bootstrap,redux,tailwind,figma&theme=dark)](https://skillicons.dev)
+### Backend Development
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,vercel&theme=dark)](https://skillicons.dev)
+
+## GitHub Stats:
+<img align="left" src="https://github-readme-stats-red-eta.vercel.app/api?username=sumana10l&show_icons=true&locale=en" alt="sumana10l" />
