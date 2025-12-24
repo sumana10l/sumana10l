@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Sumana👋</h1>
 <h3 align="left">Blockchain Developer & Tech Content Creator 👩‍💻✍️</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana10&label=Profile%20views&color=0e75b6&style=flat" alt="sumana10l" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana10l&label=Profile%20views&color=0e75b6&style=flat" alt="sumana10l" /> </p>
 
 <div align="left">
   
