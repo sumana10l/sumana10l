@@ -18,7 +18,7 @@
 
 ### Connect with me:
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/sumana10l)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana-linkdIn)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana10l)
 [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/sumana)
 
 ## Languages and Tools:
