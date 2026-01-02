@@ -30,4 +30,4 @@
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,vercel&theme=dark)](https://skillicons.dev)
 
 ## GitHub Stats:
-<img align="left" src="https://github-readme-stats-red-eta.vercel.app/api?username=sumana10l&show_icons=true&locale=en" alt="sumana10l" />
+<img align="left" src="https://github-readme-stats-nu-ten-16.vercel.app/api?username=sumana10l&show_icons=true&locale=en" alt="sumana10l" />
